@@ -1,0 +1,2 @@
+# UnityTips
+Este repositorio reúne ejemplos prácticos, scripts reutilizables y consejos para desarrollar en Unity. Aquí encontrarás desde fragmentos de código para resolver problemas comunes, hasta buenas prácticas y tips de organización para optimizar tus proyectos. La idea es crear una referencia útil tanto para principiantes como para desarrolladores que buscan acelerar su flujo de trabajo en Unity.
